@@ -1,0 +1,14 @@
+/data/
+__pycache__
+serverSettings.json
+serverSettings*
+/datapreprocessing/results/
+*.txt
+*.tif
+/dataanalysis/results/
+/dataanalyiss/data/
+*.pptx
+*.xlsx
+*.csv
+*./results/
+**.pptx
